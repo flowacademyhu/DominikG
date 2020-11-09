@@ -1,0 +1,11 @@
+8., a - touch szakasszaro_feladat
+    b - echo "Hello" > szakaszzaro_feladat
+    c - mv szakaszzaro_feladat feladat
+    d - cp feladat feladat2
+    e - rm feladat2
+    f - cat feladat
+9., cat /var/log/syslog | grep NetworkManager >> feladat
+10., cp ~/.bash_history ~/szakaszzaro/DominikG/.bash_history
+	git add .bash_history
+	git commmit 
+	git push
